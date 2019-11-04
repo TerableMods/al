@@ -1,0 +1,12 @@
+{
+  "disableAutoUpdate": false,
+  "name": "al",
+  "author": "TM",
+  "description": "Auto loot items with customizable loot templates",
+  "options": {
+    "niceName": "Auto Loot",
+    "guiName": "Auto Loot"
+  },
+  "servers": ["https://raw.githubusercontent.com/TerableMods/al/master/"],
+  "supportUrl": "https://github.com/TerableMods/al/issues"
+}
