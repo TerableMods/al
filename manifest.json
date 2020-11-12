@@ -1,8 +1,8 @@
 {
 	"files": {
 		"Droplog.js": "44907bfc20407171edf4315596f996bd52e127faac2440f3bb05e47d72a99af9",
-		"Loot.js": "9c78d71892d7994cf756dec8ce823ee9c2555a03532e7eb0aaad73311e6d6765",
-		"README.md": "50fd84c8c95acca9c8bb81921829c96fa4a6760520e989ae7ee4070edfaefd80",
+		"Loot.js": "9d6e6f06c3a00ee58e73dbb5dfea2ba736ebfa2e0474ec364d1067d795607728",
+		"README.md": "e49624b059b03070568770ddf2ec2a75dabc64b4cdc5854720b8f0511181119a",
 		"config.json": {
 			"overwrite": false,
 			"hash": "06f1adfbf49eeb9db8d48692d130e3cd53341b53ddb39343e60e10637835da8f"
@@ -18,7 +18,7 @@
 		"S_LOAD_TOPO": 3,
 		"S_LOGIN": 14,
 		"S_MOUNT_VEHICLE": 2,
-		"S_SPAWN_DROPITEM": 8,
+		"S_SPAWN_DROPITEM": 9,
 		"S_SPAWN_ME": 3,
 		"S_UNMOUNT_VEHICLE": 2
 	}

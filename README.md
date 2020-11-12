@@ -130,4 +130,4 @@ Alternatively, you can use this module to find item IDs in game:
 
 ---
 
-Patch Version: **86.6**
+Patch Version: **99.2**

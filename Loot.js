@@ -42,7 +42,7 @@ class Loot {
                 callback: _ => Object.assign(this.position, _.loc)
             },
             {
-                packet: ["S_SPAWN_DROPITEM", 8],
+                packet: ["S_SPAWN_DROPITEM", 9],
                 callback: _ => this.handleItemDrops(_)
             },
             {
